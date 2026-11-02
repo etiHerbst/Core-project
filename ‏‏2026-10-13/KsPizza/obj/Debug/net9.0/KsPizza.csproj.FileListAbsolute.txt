@@ -1,0 +1,77 @@
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\appsettings.json
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\KsPizza.staticwebassets.runtime.json
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\KsPizza.staticwebassets.endpoints.json
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\KsPizza.exe
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\KsPizza.deps.json
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\KsPizza.runtimeconfig.json
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\KsPizza.dll
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\KsPizza.pdb
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\T-HUSER\Desktop\KsPizza\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.csproj.AssemblyReference.cache
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.AssemblyInfoInputs.cache
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.AssemblyInfo.cs
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.csproj.CoreCompileInputs.cache
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\scopedcss\bundle\KsPizza.styles.css
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\compressed\90mv7qpicy-zoxlk5se5i.gz
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\compressed\s24634t6ct-0wzde2pbld.gz
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\compressed\h8qqzfkbyi-ako47ranh3.gz
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.csproj.Up2Date
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.dll
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\refint\KsPizza.dll
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.pdb
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\KsPizza.genruntimeconfig.cache
+C:\Users\T-HUSER\Desktop\KsPizza\obj\Debug\net9.0\ref\KsPizza.dll
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\appsettings.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\KsPizza.staticwebassets.runtime.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\KsPizza.staticwebassets.endpoints.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\KsPizza.exe
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\KsPizza.deps.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\KsPizza.runtimeconfig.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\KsPizza.dll
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\KsPizza.pdb
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.sourcelink.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\scopedcss\bundle\KsPizza.styles.css
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\compressed\90mv7qpicy-zoxlk5se5i.gz
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\compressed\s24634t6ct-0wzde2pbld.gz
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\compressed\h8qqzfkbyi-ako47ranh3.gz
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.csproj.Up2Date
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.dll
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\refint\KsPizza.dll
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.pdb
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\KsPizza.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות שנה ב\core\‏‏2026-10-13\KsPizza\obj\Debug\net9.0\ref\KsPizza.dll
